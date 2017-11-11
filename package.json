@@ -1,0 +1,16 @@
+{
+  "name": "sassdoc-theme-gdg-v1",
+  "description": "GDG™ SASS Documentation Templates Theme",
+  "version": "0.1.0",
+  "keywords": [
+    "sassdoc-theme"
+  ],
+  "dependencies": {
+    "sassdoc-extras": "^2.0.0",
+    "extend": "^1.0.0",
+    "themeleon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
